@@ -1,0 +1,5 @@
+.idea/
+Contest Problems/**
+!Contest Problems/
+!Contest Problems/src/
+!Contest Problems/src/**
