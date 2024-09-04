@@ -3,3 +3,9 @@ Contest Problems/**
 !Contest Problems/
 !Contest Problems/src/
 !Contest Problems/src/**
+
+!Algorithms/**
+Algorithms/.idea/
+Algorithms/out/
+Algorithms/src/
+Algorithms/Algorithms.iml
